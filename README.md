@@ -43,7 +43,7 @@ How a meeting is organized:
 
 ## Roadmap
 
-- Elliptic Curves
+- [Elliptic Curves](meeting_01_elliptic_curves.md) (20 Feb 2026)
 - Schnorr Signatures
 - Zero Knowledge Proofs
 - Scriptless scripts
