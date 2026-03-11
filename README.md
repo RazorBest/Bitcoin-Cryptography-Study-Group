@@ -45,9 +45,9 @@ How a meeting is organized:
 ## Roadmap
 
 - [Elliptic Curves](meeting_01_elliptic_curves.md) (20 Feb 2026)
-- Schnorr Signatures
+- [Schnorr Signatures](meeting_02_schnorr.md) (6 March 2026)
+- MUSIG and MUSIG2
 - Zero Knowledge Proofs
 - Scriptless scripts
-- MUSIG2
 - FROST
 - BitVM
