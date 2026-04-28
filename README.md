@@ -14,7 +14,7 @@ The initial plan is to meet every week, discuss a whitepaper, and work out the m
 - FROST2: https://eprint.iacr.org/2021/1375.pdf
 - BitVM: https://bitvm.org/
 
-### Foundations
+### Foundations and related topics
 
 - Provable Cryptography for Bitcoin: https://delvingbitcoin.org/t/provable-cryptography-for-bitcoin-an-introduction-workbook/1974
 - Elliptic Curves, ECDSA an Schnorr (by sandipan): https://sandipan.dev/blog/curves-behind-bitcoin
@@ -25,7 +25,6 @@ The initial plan is to meet every week, discuss a whitepaper, and work out the m
 - Groth16: https://alinush.github.io/groth16
    - This one has a lot of explainers about digital signatures and other ZKPs
 - Arkworks: https://github.com/arkworks-rs/snark
-   - BitVM uses arkworks as an inspiration
 - For cryptography, in general: https://github.com/sobolevn/awesome-cryptography
 
 
